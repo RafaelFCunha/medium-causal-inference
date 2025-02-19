@@ -1,0 +1,10 @@
+kagglehub
+jsonschema
+pandas
+seaborn
+matplotlib
+numpy
+nltk
+statsmodels
+scikit-learn
+scipy
